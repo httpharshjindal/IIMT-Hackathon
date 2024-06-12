@@ -104,7 +104,7 @@ header{
     display: flex;
     height: 400px;
     justify-content: space-between;
-    background-image: url(/asset/bg.jpg);
+    background-image: url(asset/bg.jpg);
     /* background-repeat: no-repeat; */
     background-size: contain;
     border-bottom: 3px solid #054bb4;
