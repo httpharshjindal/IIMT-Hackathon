@@ -114,6 +114,7 @@ header{
 } 
 #heading2{
     color: rgb(39, 15, 15);
+    text-align:center;
     padding-top: 30px;
     margin-top: 30px;
 }
